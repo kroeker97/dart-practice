@@ -1,0 +1,7 @@
+{
+  "name": "dart-practice",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
